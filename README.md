@@ -1,10 +1,10 @@
 
 
 <p align="center">
-<img src="vs_logo.png" width="200" height="200">
+<img src="Loafed.png" width="200" height="200">
 </p>
 <h1 align="center">
-Valkyrien Skies
+Loafy Thing 
 </h1>
 <p align="center">
 <a href="https://www.valkyrienskies.org/">Website</a> - <a href="https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies">CurseForge</a> - 
